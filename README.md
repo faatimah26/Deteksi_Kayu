@@ -9,4 +9,4 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
-git clone git clone https://github.com/WongKinYiu/yolov9.git 
+git clone https://github.com/WongKinYiu/yolov9.git 
